@@ -1,2 +1,3 @@
-# rust-basic
-$$ Is god exists? $$
+# rust-basics
+
+I love rust 
