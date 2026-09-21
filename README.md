@@ -1,5 +1,2 @@
 # rust-basic
-learn rust
-
-Letss
-tesd
+$$ Is god exists? $$
